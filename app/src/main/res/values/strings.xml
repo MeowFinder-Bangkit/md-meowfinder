@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Meow Finder</string>
+    <string name="favorites">Home</string>
+    <string name="camera">Camera</string>
+    <string name="profile">Profile</string>
+    <string name="cat_persian">Persian</string>
+    <string name="string_britis_shorthair">British Shorthair</string>
+    <string name="wiskas">Whiskas</string>
+    <string name="royal_canin">Royal Canin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_camera_fragment">Hello kamera fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello profile fragment</string>
+    <string name="take_foto">Take Picture From Camera</string>
+    <string name="teke_galeri">Take Picture From Gallery</string>
+    <string name="ambil_atau_pilih_foto">Take or Select  Photo</string>
+    <string name="Profile">Profile</string>
+    <string name="name_profile">Danel Purwadi</string>
+    <string name="username">@Purwadi13</string>
+    <string name="email">daniel1123@gmail.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_change">Save Change</string>
+    <string name="cat_name">Kucing Himalaya</string>
+    <string name="description">"  Kucing Himalaya, yang juga dikenal sebagai \"Himmies\", adalah ras persilangan antara kucing Persia dan Siam yang pertama kali dikembangkan di Amerika Serikat. Dari persilangan tersebut, menghasilkan kucing dengan penampilan cantik, bulu panjang dan halus seperti bulu Persia serta warna khas seperti bulu Siam pada area telinga, ekor, wajah, dan cakarnya.  \n Himalaya juga merupakan keturuana pada leluhur Siam mereka. Kucing Himalaya berukuran besar, ditambah bulu yang lebat, panjang, dan mewah, yang membuatnya semakin besar.  Namun, kucing Himalaya dianggap sebagai \"raksasa lembut\" di dunia kucing. Himalaya juga merupakan ras kucing paling populer kedua di dunia dan banyak dipelihara.  \n"</string>
+    <string name="adopt">Adopt Us</string>
+    <string name="item_name">Whiskas</string>
+    <string name="description_item">Deskripsi\n\nWHISKAS Makanan Kucing Kering Adult Fungsional Indoor - 1.1kg\nTersedia ukuran:\n- Indoor 1.1kg\nSebagai pembuat WHISKAS, kami tahu bahwa kucing rumahan memiliki kebutuhan diet khusus untuk menyesuaikan gaya hidup mereka yang santai. Kucing dalam ruangan menghabiskan sebagian besar waktunya untuk tidur dan bersantai di tempat favoritnya, sehingga mereka kurang aktif dan membutuhkan lebih sedikit energi. \n</string>
+    <string name="btn_BuyItem">Buy Now</string>
+    <string name="getstart">Meet your cats needs here</string>
+    <string name="start">Make your beloved cat\'s life happier! Come on, use the MeowFinder application now to find the best equipment, food and cat needs, Give them the special care they deserve!</string>
+    <string name="getstarted">Get Started</string>
+    <string name="login">Hello, CatsLovers!</string>
+    <string name="imail">Email</string>
+    <string name="password">Password</string>
+    <string name="logined">Login</string>
+    <string name="lupapw">Forget Password ?</string>
+    <string name="tidakpunyaakun">Don’t have an account? </string>
+    <string name="buatakun">Create Account</string>
+    <string name="newakun">Create New Account</string>
+    <string name="fullname">Full Name</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="createakun">Create Account</string>
+    <string name="punyaakun">You have an account?</string>
+    <string name="masuk">Login</string>
+    <string name="resetpw">Reset Password</string>
+    <string name="verificode">Verification Code</string>
+    <string name="aturulangpw">Reset Password</string>
+    <string name="cat_name_persian">Persia</string>
+    <string name="description_persia">Kucing persia adalah ras kucing domestik berbulu panjang dengan karakter wajah bulat dan moncong pendek. Namanya mengacu pada Persia, nama lama Iran, di mana kucing serupa ditemukan. Sejak akhir abad 19, kucing jenis ini dikembangkan di Britania Raya dan Amerika Serikat usai Perang Dunia II.[1] Di Britania Raya, ras ini disebut kucing bulu panjang persia, dibagi dalam dua jenis, yaitu Chinchilla dengan warna perak cerah dan yang agak gelap.</string>
+    <string name="description_british">Kucing British Shorthair adalah salah satu ras kucing Inggris tertua. Kucing ini memiliki bulu yang pendek, tebal, dan mewah. Kucing British Shorthair memiliki tubuh yang kekar, padat, dan berotot. Kucing ini cenderung berukuran sedang hingga besar. \nBerikut adalah ciri-ciri kucing British Shorthair: \nHidung pesek\nDagu berbentuk bulat\nOtot di bagian dada\nMata berbentuk bundar\n</string>
+    <string name="description_item_royal_canin"><![CDATA[ROYAL CANIN ADULT PERSIAN 400GR FRESHPACK\nMakanan lengkap dan seimbang untuk kucing dewasa - Spesial kucing Persia - Umur lebih dari 12 bulan.\n\nSPESIAL RAMBUT PANJANG\nRambut yang panjang dan indah dengan undercoat yang padat, merupakan ciri kucing Persia. PERSIAN mengandung kompleks nutrien eksklusif yang mendukung pertahanan kulit dan mempertahankan kesehatan kulit dan rambut. Formula yang diperkaya asam lemak omega 3 (EPA & DHA) dan asam lemak omega 6.\n\nREDUKSI HAIRBALL\nKombinasi serat spesifik yang membantu stimulasi transit usust dan secara alami membatasi pembentukan hairball.]]></string>
+    <string name="ras">Hibrida</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="txt_takefoto">Take a photo of the cat and we\'ll find the breed</string>
+</resources>
